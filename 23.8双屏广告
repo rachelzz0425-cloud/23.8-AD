@@ -1,0 +1,621 @@
+顾客搜索词,关键词,展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+laptop screen extender,close-match,459,8,0.0174,7.72,0.96,0,0,0
+portable monitor,close-match,276,3,0.0109,2.2,0.73,0,0,0
+xenon edge corsair,loose-match,272,1,0.0037,0.76,0.76,0,0,0
+xenon edge monitor,loose-match,256,5,0.0195,5.37,1.07,0,0,0
+touchscreen monitor,close-match,241,5,0.0207,5.2,1.04,0,0,0
+ultrawide portable monitor,loose-match,213,2,0.0094,1.07,0.54,0,0,0
+dual monitor,close-match,170,2,0.0118,1.48,0.74,0,0,0
+touch screen monitor,close-match,135,3,0.0222,3.3,1.1,0,0,0
+under monitor screen,loose-match,120,3,0.0250,2.47,0.82,0,0,0
+portable monitor for laptop,loose-match,116,3,0.0259,2.88,0.96,0,0,0
+monitor,loose-match,112,2,0.0179,1.67,0.84,0,0,0
+pc,loose-match,100,1,0.0100,1.08,1.08,0,0,0
+touchscreen portable monitor,loose-match,99,2,0.0202,1.57,0.79,0,0,0状态,关键词,状态,竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS,ROAS
+已启用,dual monitor,超出预算,1.72,6174,45,0.0073,66.4,1.48,0,0,0,0
+已启用,dual monitor for laptop,超出预算,1.86,3135,15,0.0048,24.97,1.66,0,0,0,0
+已启用,dual screen monitor,超出预算,1.88,814,13,0.0160,22.24,1.71,0,0,0,0
+已启用,extended monitor for laptop,超出预算,1.84,122,1,0.0082,1.42,1.42,0,0,0,0
+已启用,stackable monitor,超出预算,1.88,24,0,0,0,0,0,0,0,0
+已启用,stacked monitor,超出预算,1.68,468,11,0.0235,14.91,1.36,0,0,0,0
+已启用,two screen monitor,超出预算,1.84,20,0,0,0,0,0,0,0,0
+已启用,vertical dual monitor,超出预算,2.24,46,0,0,0,0,0,0,0,0
+顾客搜索词,关键词,展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+laptop screen extender,close-match,459,8,0.0174,7.72,0.96,0,0,0已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,laptop screen extender,laptop screen extender,2.22,5715,22,0.0038,44,2,0,0,0
+关键词: 精准匹配,dual monitor for laptop,dual monitor for laptop,2.27,221,2,0.0090,4.54,2.27,0,0,0
+,stacked monitors,stacked monitor,2.67,31,1,0.0323,2.31,2.31,0,0,0
+状态,关键词,状态,竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS,ROAS已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,magnetic laptop screen extender,laptop screen extender,1.48,289,1,0.0035,1.48,1.48,0,0,0
+,triple laptop screen extender,laptop screen extender,1.48,158,3,0.0190,4.44,1.48,0,0,0
+,24 inch monitor,24 inch dual monitor,1.68,113,5,0.0442,8.42,1.68,0,0,0
+,computer monitor,vertical dual monitor,1.58,38,1,0.0263,1.09,1.09,0,0,0
+,dual monitors,vertical dual monitor,1.58,30,1,0.0333,1.1,1.1,0,0,0
+,portable monitor,second monitor for laptop,1.48,23,1,0.0435,1.48,1.48,0,0,0
+,2 monitors,stacked monitor,1.58,22,1,0.0455,1.58,1.58,0,0,0
+,dual monitor,vertical dual monitor,1.58,21,1,0.0476,1.18,1.18,0,0,0
+,double monitor,24 inch dual monitor,1.68,21,1,0.0476,1.68,1.68,0,0,0
+,portable monitor,dual monitor for laptop,1.48,15,1,0.0667,1.48,1.48,0,0,0
+,15.6 dual laptop screen extender,laptop screen extender,1.48,9,1,0.1111,1.32,1.32,0,0,0
+,quad laptop screen extender,laptop screen extender,1.48,8,1,0.1250,1.15,1.15,0,0,0
+,laptop triple screen extender,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,stand alone laptop screen,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,dual screen capability monitor,vertical dual monitor,1.58,3,1,0.3333,1.58,1.58,0,0,0
+,portable monitor for laptop 30 inch,dual monitor for laptop,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,laptop screen extender dual,laptop screen extender,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,stacked on top monitors,stacked monitor,1.58,1,1,1.0000,1.14,1.14,0,0,0
+,long monitor,second monitor for laptop,1.48,1,1,1.0000,1.43,1.43,0,0,0
+,27 by 23 inch screen,dual screen monitor,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,4k dual monitor,24 inch dual monitor,1.68,1,1,1.0000,1.68,1.68,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,laptop screen extender,laptop screen extender,2.22,5715,22,0.0038,44,2,0,0,0
+关键词: 精准匹配,dual monitor for laptop,dual monitor for laptop,2.27,221,2,0.0090,4.54,2.27,0,0,0
+,stacked monitors,stacked monitor,2.67,31,1,0.0323,2.31,2.31,0,0,0
+状态,关键词,状态,竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS,ROAS
+已启用,dual monitor,超出预算,1.72,6174,45,0.0073,66.4,1.48,0,0,0,0
+已启用,dual monitor for laptop,超出预算,1.86,3135,15,0.0048,24.97,1.66,0,0,0,0
+已启用,dual screen monitor,超出预算,1.88,814,13,0.0160,22.24,1.71,0,0,0,0
+已启用,extended monitor for laptop,超出预算,1.84,122,1,0.0082,1.42,1.42,0,0,0,0
+已启用,stackable monitor,超出预算,1.88,24,0,0,0,0,0,0,0,0
+已启用,stacked monitor,超出预算,1.68,468,11,0.0235,14.91,1.36,0,0,0,0
+已启用,two screen monitor,超出预算,1.84,20,0,0,0,0,0,0,0,0
+已启用,vertical dual monitor,超出预算,2.24,46,0,0,0,0,0,0,0,0
+顾客搜索词,关键词,展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+laptop screen extender,close-match,459,8,0.0174,7.72,0.96,0,0,0
+portable monitor,close-match,276,3,0.0109,2.2,0.73,0,0,0
+xenon edge corsair,loose-match,272,1,0.0037,0.76,0.76,0,0,0
+xenon edge monitor,loose-match,256,5,0.0195,5.37,1.07,0,0,0
+touchscreen monitor,close-match,241,5,0.0207,5.2,1.04,0,0,0
+ultrawide portable monitor,loose-match,213,2,0.0094,1.07,0.54,0,0,0
+dual monitor,close-match,170,2,0.0118,1.48,0.74,0,0,0
+touch screen monitor,close-match,135,3,0.0222,3.3,1.1,0,0,0
+under monitor screen,loose-match,120,3,0.0250,2.47,0.82,0,0,0
+portable monitor for laptop,loose-match,116,3,0.0259,2.88,0.96,0,0,0
+monitor,loose-match,112,2,0.0179,1.67,0.84,0,0,0
+pc,loose-match,100,1,0.0100,1.08,1.08,0,0,0
+touchscreen portable monitor,loose-match,99,2,0.0202,1.57,0.79,0,0,0
+dual monitors,close-match,93,3,0.0323,2.66,0.89,0,0,0
+tv on wheels,loose-match,83,1,0.0120,1.08,1.08,0,0,0
+portable tv,loose-match,54,1,0.0185,0.45,0.45,0,0,0
+portable tv,close-match,52,1,0.0192,1.1,1.1,0,0,0
+corsair xeneon edge,close-match,48,1,0.0208,1.1,1.1,0,0,0
+portable monitor 4k,loose-match,45,1,0.0222,0.46,0.46,0,0,0
+touchscreen keyboard,loose-match,43,1,0.0233,0.57,0.57,0,0,0
+stretched bar monitor,close-match,41,1,0.0244,0.73,0.73,0,0,0
+b0gy62y41k,substitutes,36,2,0.0556,0.93,0.47,0,0,0
+computer monitor,close-match,34,1,0.0294,0.82,0.82,0,0,0
+small monitor,loose-match,31,1,0.0323,1.08,1.08,0,0,0
+b0d4wr7v45,substitutes,31,2,0.0645,1.69,0.85,0,0,0
+b0btk1c533,substitutes,21,2,0.0952,1.66,0.83,0,0,0
+xbox rog ally x accessories,loose-match,20,2,0.1000,1.27,0.64,0,0,0
+vertical monitor,close-match,18,1,0.0556,1.1,1.1,0,0,0
+b0fgd37ym1,substitutes,18,1,0.0556,0.41,0.41,0,0,0
+b0crgjf7wl,substitutes,16,1,0.0625,0.92,0.92,0,0,0
+portable monitor,loose-match,15,1,0.0667,1.08,1.08,0,0,0
+touch monitor,close-match,14,1,0.0714,1.1,1.1,0,0,0
+b0cdqm55c9,substitutes,14,1,0.0714,1,1,0,0,0
+b0d6ckl4hv,substitutes,13,1,0.0769,0.88,0.88,0,0,0
+b0fdvnj8st,substitutes,13,1,0.0769,0.56,0.56,0,0,0
+b0h5klxykv,substitutes,13,1,0.0769,1,1,0,0,0
+b0dkjmd9hx,substitutes,12,1,0.0833,1,1,0,0,0
+b0h3z2pznf,substitutes,12,1,0.0833,0.89,0.89,0,0,0
+dual portable monitor,close-match,11,2,0.1818,2.2,1.1,0,0,0
+b0hg9rwh5c,substitutes,11,1,0.0909,0.28,0.28,0,0,0
+touch bar,loose-match,10,1,0.1000,1.08,1.08,0,0,0
+b07txm7k4t,substitutes,10,1,0.1000,0.81,0.81,0,0,0
+y70 touch infinite,close-match,9,1,0.1111,1.07,1.07,0,0,0
+b0h5mgrzly,substitutes,9,1,0.1111,1,1,0,0,0
+2 monitors,close-match,8,1,0.1250,1.1,1.1,0,0,0
+megapad,close-match,8,1,0.1250,0.69,0.69,0,0,0
+b0cv27x9k7,substitutes,8,1,0.1250,1,1,0,0,0
+monitor 6k,loose-match,7,1,0.1429,1.08,1.08,0,0,0
+under monitor monitor,loose-match,7,1,0.1429,0.62,0.62,0,0,0
+b0gd6shygz,substitutes,7,2,0.2857,1.91,0.96,0,0,0
+rog ally,close-match,6,1,0.1667,1,1,0,0,0
+portable monitor 2k,loose-match,6,1,0.1667,0.43,0.43,0,0,0
+b0btkjfrdv,substitutes,6,1,0.1667,0.83,0.83,0,0,0
+gaming laptop accessories,close-match,5,1,0.2000,1.1,1.1,0,0,0
+computer monitor for home office,loose-match,5,1,0.2000,0.85,0.85,0,0,0
+samsung model c49rg90ssn,loose-match,5,1,0.2000,0.88,0.88,0,0,0
+b0h874m2px,substitutes,5,1,0.2000,1,1,0,0,0
+b0f6724x5n,substitutes,4,1,0.2500,0.78,0.78,0,0,0
+b0fjfzgmcv,substitutes,4,1,0.2500,0.91,0.91,0,0,0
+b0gtymg4bn,substitutes,4,1,0.2500,1,1,0,0,0
+b0h9qrx7d1,substitutes,4,1,0.2500,1,1,0,0,0
+dual computer with customer view,loose-match,3,1,0.3333,0.5,0.5,0,0,0
+prechen,loose-match,3,1,0.3333,0.45,0.45,0,0,0
+b0c9d8wmn4,substitutes,3,1,0.3333,1,1,0,0,0
+b0dbb63xgc,substitutes,3,1,0.3333,0.96,0.96,0,0,0
+b0dg588b1s,substitutes,3,1,0.3333,1,1,0,0,0
+b0glp1k3jc,substitutes,3,1,0.3333,1,1,0,0,0
+b0gvpbvrpp,substitutes,3,1,0.3333,0.93,0.93,0,0,0
+b0gx9k673b,substitutes,3,1,0.3333,0.97,0.97,0,0,0
+b0h5psd9w6,substitutes,3,1,0.3333,0.45,0.45,0,0,0
+b0h85tqf5m,substitutes,3,1,0.3333,1,1,0,0,0
+stage lyric prompter monitor,close-match,2,1,0.5000,1.08,1.08,0,0,0
+24 inch portable monitor,loose-match,2,1,0.5000,0.74,0.74,0,0,0
+big screen computer monitor vertical,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+flip double portable monitor 4k 23,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+gamer touch screen for pc,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+long quad oled monitor,loose-match,2,1,0.5000,1.05,1.05,0,0,0
+performance monitor for pc usb,loose-match,2,1,0.5000,0.85,0.85,0,0,0
+sotsu portable monitor,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+uperfect delta 18.5-inch dual,loose-match,2,1,0.5000,0.98,0.98,0,0,0
+b09n6h2lqm,substitutes,2,1,0.5000,0.91,0.91,0,0,0
+b0ddp95j7t,substitutes,2,1,0.5000,1,1,0,0,0
+b0dqf8lrgz,substitutes,2,1,0.5000,1,1,0,0,0
+b0dr9n6m93,substitutes,2,1,0.5000,0.98,0.98,0,0,0
+b0f5w9k7kw,substitutes,2,1,0.5000,1,1,0,0,0
+b0fgdcs3ch,substitutes,2,1,0.5000,0.97,0.97,0,0,0
+b0fm76lqlm,substitutes,2,1,0.5000,0.63,0.63,0,0,0
+b0fpfkvw49,substitutes,2,1,0.5000,1,1,0,0,0
+b0gl6zjlsl,substitutes,2,1,0.5000,1,1,0,0,0
+b0gt4tshpc,substitutes,2,1,0.5000,0.85,0.85,0,0,0
+b0hb92txz4,close-match,1,1,1.0000,0.02,0.02,0,0,0
+screen extender,close-match,1,1,1.0000,0.08,0.08,0,0,0
+wireless dual touchscreen monitor,close-match,1,1,1.0000,1.05,1.05,0,0,0
+24 screen 3:2,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+3x 20.5triple monitor workstation,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+55 inch computer monitor,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+apple view,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+auro displays for laptop 3 screens,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+computer monitor hp g5 e45,loose-match,1,1,1.0000,1.05,1.05,0,0,0
+laptop extended screen 16 inch,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor curves touch screen,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor dualup,loose-match,1,1,1.0000,0.48,0.48,0,0,0
+the movingstyle lsm7f qhd portable smart,loose-match,1,1,1.0000,0.58,0.58,0,0,0
+touch monitor + mini-pc or windows tablet with browser,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+touchscreen external monitor for laptop,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+b0855zbpxd,substitutes,1,1,1.0000,0.94,0.94,0,0,0
+b08gy5351h,substitutes,1,1,1.0000,1,1,0,0,0
+b08pb63tk3,substitutes,1,1,1.0000,1,1,0,0,0
+b098nkq5j6,substitutes,1,1,1.0000,1,1,0,0,0
+b0bdbxv7t4,substitutes,1,1,1.0000,0.93,0.93,0,0,0
+b0dskd4x2v,substitutes,1,1,1.0000,1,1,0,0,0
+b0fm13f4xk,substitutes,1,1,1.0000,0.47,0.47,0,0,0
+b0fn2vj9gj,substitutes,1,1,1.0000,0.96,0.96,0,0,0
+b0fqjjbj2g,substitutes,1,1,1.0000,0.44,0.44,0,0,0
+b0fvwwhm76,substitutes,1,1,1.0000,0.75,0.75,0,0,0
+b0fz9y2ch4,substitutes,1,1,1.0000,0.89,0.89,0,0,0
+b0g2x2nmqc,substitutes,1,1,1.0000,0.97,0.97,0,0,0
+b0gv9485kz,substitutes,1,1,1.0000,0.77,0.77,0,0,0
+b0h39nqqjp,substitutes,1,1,1.0000,0.95,0.95,0,0,0
+b0h7mc351h,substitutes,1,1,1.0000,0.82,0.82,0,0,0
+已启用,dual monitor,超出预算,1.72,6174,45,0.0073,66.4,1.48,0,0,0,0
+已启用,dual monitor for laptop,超出预算,1.86,3135,15,0.0048,24.97,1.66,0,0,0,0
+已启用,dual screen monitor,超出预算,1.88,814,13,0.0160,22.24,1.71,0,0,0,0
+已启用,extended monitor for laptop,超出预算,1.84,122,1,0.0082,1.42,1.42,0,0,0,0
+已启用,stackable monitor,超出预算,1.88,24,0,0,0,0,0,0,0,0
+已启用,stacked monitor,超出预算,1.68,468,11,0.0235,14.91,1.36,0,0,0,0
+已启用,two screen monitor,超出预算,1.84,20,0,0,0,0,0,0,0,0
+已启用,vertical dual monitor,超出预算,2.24,46,0,0,0,0,0,0,0,0
+顾客搜索词,关键词,展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+laptop screen extender,close-match,459,8,0.0174,7.72,0.96,0,0,0
+portable monitor,close-match,276,3,0.0109,2.2,0.73,0,0,0
+xenon edge corsair,loose-match,272,1,0.0037,0.76,0.76,0,0,0
+xenon edge monitor,loose-match,256,5,0.0195,5.37,1.07,0,0,0
+touchscreen monitor,close-match,241,5,0.0207,5.2,1.04,0,0,0
+ultrawide portable monitor,loose-match,213,2,0.0094,1.07,0.54,0,0,0
+dual monitor,close-match,170,2,0.0118,1.48,0.74,0,0,0
+touch screen monitor,close-match,135,3,0.0222,3.3,1.1,0,0,0
+under monitor screen,loose-match,120,3,0.0250,2.47,0.82,0,0,0
+portable monitor for laptop,loose-match,116,3,0.0259,2.88,0.96,0,0,0
+monitor,loose-match,112,2,0.0179,1.67,0.84,0,0,0
+pc,loose-match,100,1,0.0100,1.08,1.08,0,0,0
+touchscreen portable monitor,loose-match,99,2,0.0202,1.57,0.79,0,0,0
+dual monitors,close-match,93,3,0.0323,2.66,0.89,0,0,0
+tv on wheels,loose-match,83,1,0.0120,1.08,1.08,0,0,0
+portable tv,loose-match,54,1,0.0185,0.45,0.45,0,0,0
+portable tv,close-match,52,1,0.0192,1.1,1.1,0,0,0
+corsair xeneon edge,close-match,48,1,0.0208,1.1,1.1,0,0,0
+portable monitor 4k,loose-match,45,1,0.0222,0.46,0.46,0,0,0
+touchscreen keyboard,loose-match,43,1,0.0233,0.57,0.57,0,0,0
+stretched bar monitor,close-match,41,1,0.0244,0.73,0.73,0,0,0
+b0gy62y41k,substitutes,36,2,0.0556,0.93,0.47,0,0,0
+computer monitor,close-match,34,1,0.0294,0.82,0.82,0,0,0
+small monitor,loose-match,31,1,0.0323,1.08,1.08,0,0,0
+b0d4wr7v45,substitutes,31,2,0.0645,1.69,0.85,0,0,0
+b0btk1c533,substitutes,21,2,0.0952,1.66,0.83,0,0,0
+xbox rog ally x accessories,loose-match,20,2,0.1000,1.27,0.64,0,0,0
+vertical monitor,close-match,18,1,0.0556,1.1,1.1,0,0,0
+b0fgd37ym1,substitutes,18,1,0.0556,0.41,0.41,0,0,0
+b0crgjf7wl,substitutes,16,1,0.0625,0.92,0.92,0,0,0
+portable monitor,loose-match,15,1,0.0667,1.08,1.08,0,0,0
+touch monitor,close-match,14,1,0.0714,1.1,1.1,0,0,0
+b0cdqm55c9,substitutes,14,1,0.0714,1,1,0,0,0
+b0d6ckl4hv,substitutes,13,1,0.0769,0.88,0.88,0,0,0
+b0fdvnj8st,substitutes,13,1,0.0769,0.56,0.56,0,0,0
+b0h5klxykv,substitutes,13,1,0.0769,1,1,0,0,0
+b0dkjmd9hx,substitutes,12,1,0.0833,1,1,0,0,0
+b0h3z2pznf,substitutes,12,1,0.0833,0.89,0.89,0,0,0
+dual portable monitor,close-match,11,2,0.1818,2.2,1.1,0,0,0
+b0hg9rwh5c,substitutes,11,1,0.0909,0.28,0.28,0,0,0
+touch bar,loose-match,10,1,0.1000,1.08,1.08,0,0,0
+b07txm7k4t,substitutes,10,1,0.1000,0.81,0.81,0,0,0
+y70 touch infinite,close-match,9,1,0.1111,1.07,1.07,0,0,0
+b0h5mgrzly,substitutes,9,1,0.1111,1,1,0,0,0
+2 monitors,close-match,8,1,0.1250,1.1,1.1,0,0,0
+megapad,close-match,8,1,0.1250,0.69,0.69,0,0,0
+b0cv27x9k7,substitutes,8,1,0.1250,1,1,0,0,0
+monitor 6k,loose-match,7,1,0.1429,1.08,1.08,0,0,0
+under monitor monitor,loose-match,7,1,0.1429,0.62,0.62,0,0,0
+b0gd6shygz,substitutes,7,2,0.2857,1.91,0.96,0,0,0
+rog ally,close-match,6,1,0.1667,1,1,0,0,0
+portable monitor 2k,loose-match,6,1,0.1667,0.43,0.43,0,0,0
+b0btkjfrdv,substitutes,6,1,0.1667,0.83,0.83,0,0,0
+gaming laptop accessories,close-match,5,1,0.2000,1.1,1.1,0,0,0
+computer monitor for home office,loose-match,5,1,0.2000,0.85,0.85,0,0,0
+samsung model c49rg90ssn,loose-match,5,1,0.2000,0.88,0.88,0,0,0
+b0h874m2px,substitutes,5,1,0.2000,1,1,0,0,0
+b0f6724x5n,substitutes,4,1,0.2500,0.78,0.78,0,0,0
+b0fjfzgmcv,substitutes,4,1,0.2500,0.91,0.91,0,0,0
+b0gtymg4bn,substitutes,4,1,0.2500,1,1,0,0,0
+b0h9qrx7d1,substitutes,4,1,0.2500,1,1,0,0,0
+dual computer with customer view,loose-match,3,1,0.3333,0.5,0.5,0,0,0
+prechen,loose-match,3,1,0.3333,0.45,0.45,0,0,0
+b0c9d8wmn4,substitutes,3,1,0.3333,1,1,0,0,0
+b0dbb63xgc,substitutes,3,1,0.3333,0.96,0.96,0,0,0
+b0dg588b1s,substitutes,3,1,0.3333,1,1,0,0,0
+b0glp1k3jc,substitutes,3,1,0.3333,1,1,0,0,0
+b0gvpbvrpp,substitutes,3,1,0.3333,0.93,0.93,0,0,0
+b0gx9k673b,substitutes,3,1,0.3333,0.97,0.97,0,0,0
+b0h5psd9w6,substitutes,3,1,0.3333,0.45,0.45,0,0,0
+b0h85tqf5m,substitutes,3,1,0.3333,1,1,0,0,0
+stage lyric prompter monitor,close-match,2,1,0.5000,1.08,1.08,0,0,0
+24 inch portable monitor,loose-match,2,1,0.5000,0.74,0.74,0,0,0
+big screen computer monitor vertical,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+flip double portable monitor 4k 23,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+gamer touch screen for pc,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+long quad oled monitor,loose-match,2,1,0.5000,1.05,1.05,0,0,0
+performance monitor for pc usb,loose-match,2,1,0.5000,0.85,0.85,0,0,0
+sotsu portable monitor,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+uperfect delta 18.5-inch dual,loose-match,2,1,0.5000,0.98,0.98,0,0,0
+b09n6h2lqm,substitutes,2,1,0.5000,0.91,0.91,0,0,0
+b0ddp95j7t,substitutes,2,1,0.5000,1,1,0,0,0
+b0dqf8lrgz,substitutes,2,1,0.5000,1,1,0,0,0
+b0dr9n6m93,substitutes,2,1,0.5000,0.98,0.98,0,0,0
+b0f5w9k7kw,substitutes,2,1,0.5000,1,1,0,0,0
+b0fgdcs3ch,substitutes,2,1,0.5000,0.97,0.97,0,0,0
+b0fm76lqlm,substitutes,2,1,0.5000,0.63,0.63,0,0,0
+b0fpfkvw49,substitutes,2,1,0.5000,1,1,0,0,0
+b0gl6zjlsl,substitutes,2,1,0.5000,1,1,0,0,0
+b0gt4tshpc,substitutes,2,1,0.5000,0.85,0.85,0,0,0
+b0hb92txz4,close-match,1,1,1.0000,0.02,0.02,0,0,0
+screen extender,close-match,1,1,1.0000,0.08,0.08,0,0,0
+wireless dual touchscreen monitor,close-match,1,1,1.0000,1.05,1.05,0,0,0
+24 screen 3:2,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+3x 20.5triple monitor workstation,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+55 inch computer monitor,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+apple view,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+auro displays for laptop 3 screens,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+computer monitor hp g5 e45,loose-match,1,1,1.0000,1.05,1.05,0,0,0
+laptop extended screen 16 inch,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor curves touch screen,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor dualup,loose-match,1,1,1.0000,0.48,0.48,0,0,0
+the movingstyle lsm7f qhd portable smart,loose-match,1,1,1.0000,0.58,0.58,0,0,0
+touch monitor + mini-pc or windows tablet with browser,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+touchscreen external monitor for laptop,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+b0855zbpxd,substitutes,1,1,1.0000,0.94,0.94,0,0,0
+b08gy5351h,substitutes,1,1,1.0000,1,1,0,0,0
+b08pb63tk3,substitutes,1,1,1.0000,1,1,0,0,0
+b098nkq5j6,substitutes,1,1,1.0000,1,1,0,0,0
+b0bdbxv7t4,substitutes,1,1,1.0000,0.93,0.93,0,0,0
+b0dskd4x2v,substitutes,1,1,1.0000,1,1,0,0,0
+b0fm13f4xk,substitutes,1,1,1.0000,0.47,0.47,0,0,0
+b0fn2vj9gj,substitutes,1,1,1.0000,0.96,0.96,0,0,0
+b0fqjjbj2g,substitutes,1,1,1.0000,0.44,0.44,0,0,0
+b0fvwwhm76,substitutes,1,1,1.0000,0.75,0.75,0,0,0
+b0fz9y2ch4,substitutes,1,1,1.0000,0.89,0.89,0,0,0
+b0g2x2nmqc,substitutes,1,1,1.0000,0.97,0.97,0,0,0
+b0gv9485kz,substitutes,1,1,1.0000,0.77,0.77,0,0,0
+b0h39nqqjp,substitutes,1,1,1.0000,0.95,0.95,0,0,0
+b0h7mc351h,substitutes,1,1,1.0000,0.82,0.82,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,magnetic laptop screen extender,laptop screen extender,1.48,289,1,0.0035,1.48,1.48,0,0,0
+,triple laptop screen extender,laptop screen extender,1.48,158,3,0.0190,4.44,1.48,0,0,0
+,24 inch monitor,24 inch dual monitor,1.68,113,5,0.0442,8.42,1.68,0,0,0
+,computer monitor,vertical dual monitor,1.58,38,1,0.0263,1.09,1.09,0,0,0
+,dual monitors,vertical dual monitor,1.58,30,1,0.0333,1.1,1.1,0,0,0
+,portable monitor,second monitor for laptop,1.48,23,1,0.0435,1.48,1.48,0,0,0
+,2 monitors,stacked monitor,1.58,22,1,0.0455,1.58,1.58,0,0,0
+,dual monitor,vertical dual monitor,1.58,21,1,0.0476,1.18,1.18,0,0,0
+,double monitor,24 inch dual monitor,1.68,21,1,0.0476,1.68,1.68,0,0,0
+,portable monitor,dual monitor for laptop,1.48,15,1,0.0667,1.48,1.48,0,0,0
+,15.6 dual laptop screen extender,laptop screen extender,1.48,9,1,0.1111,1.32,1.32,0,0,0
+,quad laptop screen extender,laptop screen extender,1.48,8,1,0.1250,1.15,1.15,0,0,0
+,laptop triple screen extender,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,stand alone laptop screen,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,dual screen capability monitor,vertical dual monitor,1.58,3,1,0.3333,1.58,1.58,0,0,0
+,portable monitor for laptop 30 inch,dual monitor for laptop,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,laptop screen extender dual,laptop screen extender,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,stacked on top monitors,stacked monitor,1.58,1,1,1.0000,1.14,1.14,0,0,0
+,long monitor,second monitor for laptop,1.48,1,1,1.0000,1.43,1.43,0,0,0
+,27 by 23 inch screen,dual screen monitor,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,4k dual monitor,24 inch dual monitor,1.68,1,1,1.0000,1.68,1.68,0,0,0
+portable monitor,close-match,276,3,0.0109,2.2,0.73,0,0,0
+xenon edge corsair,loose-match,272,1,0.0037,0.76,0.76,0,0,0
+xenon edge monitor,loose-match,256,5,0.0195,5.37,1.07,0,0,0
+touchscreen monitor,close-match,241,5,0.0207,5.2,1.04,0,0,0
+ultrawide portable monitor,loose-match,213,2,0.0094,1.07,0.54,0,0,0
+dual monitor,close-match,170,2,0.0118,1.48,0.74,0,0,0
+touch screen monitor,close-match,135,3,0.0222,3.3,1.1,0,0,0
+under monitor screen,loose-match,120,3,0.0250,2.47,0.82,0,0,0
+portable monitor for laptop,loose-match,116,3,0.0259,2.88,0.96,0,0,0
+monitor,loose-match,112,2,0.0179,1.67,0.84,0,0,0
+pc,loose-match,100,1,0.0100,1.08,1.08,0,0,0
+touchscreen portable monitor,loose-match,99,2,0.0202,1.57,0.79,0,0,0
+dual monitors,close-match,93,3,0.0323,2.66,0.89,0,0,0
+tv on wheels,loose-match,83,1,0.0120,1.08,1.08,0,0,0
+portable tv,loose-match,54,1,0.0185,0.45,0.45,0,0,0
+portable tv,close-match,52,1,0.0192,1.1,1.1,0,0,0
+corsair xeneon edge,close-match,48,1,0.0208,1.1,1.1,0,0,0
+portable monitor 4k,loose-match,45,1,0.0222,0.46,0.46,0,0,0
+touchscreen keyboard,loose-match,43,1,0.0233,0.57,0.57,0,0,0
+stretched bar monitor,close-match,41,1,0.0244,0.73,0.73,0,0,0
+b0gy62y41k,substitutes,36,2,0.0556,0.93,0.47,0,0,0
+computer monitor,close-match,34,1,0.0294,0.82,0.82,0,0,0
+small monitor,loose-match,31,1,0.0323,1.08,1.08,0,0,0
+b0d4wr7v45,substitutes,31,2,0.0645,1.69,0.85,0,0,0
+b0btk1c533,substitutes,21,2,0.0952,1.66,0.83,0,0,0
+xbox rog ally x accessories,loose-match,20,2,0.1000,1.27,0.64,0,0,0
+vertical monitor,close-match,18,1,0.0556,1.1,1.1,0,0,0
+b0fgd37ym1,substitutes,18,1,0.0556,0.41,0.41,0,0,0
+b0crgjf7wl,substitutes,16,1,0.0625,0.92,0.92,0,0,0
+portable monitor,loose-match,15,1,0.0667,1.08,1.08,0,0,0
+touch monitor,close-match,14,1,0.0714,1.1,1.1,0,0,0
+b0cdqm55c9,substitutes,14,1,0.0714,1,1,0,0,0
+b0d6ckl4hv,substitutes,13,1,0.0769,0.88,0.88,0,0,0
+b0fdvnj8st,substitutes,13,1,0.0769,0.56,0.56,0,0,0
+b0h5klxykv,substitutes,13,1,0.0769,1,1,0,0,0
+b0dkjmd9hx,substitutes,12,1,0.0833,1,1,0,0,0
+b0h3z2pznf,substitutes,12,1,0.0833,0.89,0.89,0,0,0
+dual portable monitor,close-match,11,2,0.1818,2.2,1.1,0,0,0
+b0hg9rwh5c,substitutes,11,1,0.0909,0.28,0.28,0,0,0
+touch bar,loose-match,10,1,0.1000,1.08,1.08,0,0,0
+b07txm7k4t,substitutes,10,1,0.1000,0.81,0.81,0,0,0
+y70 touch infinite,close-match,9,1,0.1111,1.07,1.07,0,0,0
+b0h5mgrzly,substitutes,9,1,0.1111,1,1,0,0,0
+2 monitors,close-match,8,1,0.1250,1.1,1.1,0,0,0
+megapad,close-match,8,1,0.1250,0.69,0.69,0,0,0
+b0cv27x9k7,substitutes,8,1,0.1250,1,1,0,0,0
+monitor 6k,loose-match,7,1,0.1429,1.08,1.08,0,0,0
+under monitor monitor,loose-match,7,1,0.1429,0.62,0.62,0,0,0
+b0gd6shygz,substitutes,7,2,0.2857,1.91,0.96,0,0,0
+rog ally,close-match,6,1,0.1667,1,1,0,0,0
+portable monitor 2k,loose-match,6,1,0.1667,0.43,0.43,0,0,0
+b0btkjfrdv,substitutes,6,1,0.1667,0.83,0.83,0,0,0
+gaming laptop accessories,close-match,5,1,0.2000,1.1,1.1,0,0,0
+computer monitor for home office,loose-match,5,1,0.2000,0.85,0.85,0,0,0
+samsung model c49rg90ssn,loose-match,5,1,0.2000,0.88,0.88,0,0,0
+b0h874m2px,substitutes,5,1,0.2000,1,1,0,0,0
+b0f6724x5n,substitutes,4,1,0.2500,0.78,0.78,0,0,0
+b0fjfzgmcv,substitutes,4,1,0.2500,0.91,0.91,0,0,0
+b0gtymg4bn,substitutes,4,1,0.2500,1,1,0,0,0
+b0h9qrx7d1,substitutes,4,1,0.2500,1,1,0,0,0
+dual computer with customer view,loose-match,3,1,0.3333,0.5,0.5,0,0,0
+prechen,loose-match,3,1,0.3333,0.45,0.45,0,0,0
+b0c9d8wmn4,substitutes,3,1,0.3333,1,1,0,0,0
+b0dbb63xgc,substitutes,3,1,0.3333,0.96,0.96,0,0,0
+b0dg588b1s,substitutes,3,1,0.3333,1,1,0,0,0
+b0glp1k3jc,substitutes,3,1,0.3333,1,1,0,0,0
+b0gvpbvrpp,substitutes,3,1,0.3333,0.93,0.93,0,0,0
+b0gx9k673b,substitutes,3,1,0.3333,0.97,0.97,0,0,0
+b0h5psd9w6,substitutes,3,1,0.3333,0.45,0.45,0,0,0
+b0h85tqf5m,substitutes,3,1,0.3333,1,1,0,0,0
+stage lyric prompter monitor,close-match,2,1,0.5000,1.08,1.08,0,0,0
+24 inch portable monitor,loose-match,2,1,0.5000,0.74,0.74,0,0,0
+big screen computer monitor vertical,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+flip double portable monitor 4k 23,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+gamer touch screen for pc,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+long quad oled monitor,loose-match,2,1,0.5000,1.05,1.05,0,0,0
+performance monitor for pc usb,loose-match,2,1,0.5000,0.85,0.85,0,0,0
+sotsu portable monitor,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+uperfect delta 18.5-inch dual,loose-match,2,1,0.5000,0.98,0.98,0,0,0
+b09n6h2lqm,substitutes,2,1,0.5000,0.91,0.91,0,0,0
+b0ddp95j7t,substitutes,2,1,0.5000,1,1,0,0,0
+b0dqf8lrgz,substitutes,2,1,0.5000,1,1,0,0,0
+b0dr9n6m93,substitutes,2,1,0.5000,0.98,0.98,0,0,0
+b0f5w9k7kw,substitutes,2,1,0.5000,1,1,0,0,0
+b0fgdcs3ch,substitutes,2,1,0.5000,0.97,0.97,0,0,0
+b0fm76lqlm,substitutes,2,1,0.5000,0.63,0.63,0,0,0
+b0fpfkvw49,substitutes,2,1,0.5000,1,1,0,0,0
+b0gl6zjlsl,substitutes,2,1,0.5000,1,1,0,0,0
+b0gt4tshpc,substitutes,2,1,0.5000,0.85,0.85,0,0,0
+b0hb92txz4,close-match,1,1,1.0000,0.02,0.02,0,0,0
+screen extender,close-match,1,1,1.0000,0.08,0.08,0,0,0
+wireless dual touchscreen monitor,close-match,1,1,1.0000,1.05,1.05,0,0,0
+24 screen 3:2,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+3x 20.5triple monitor workstation,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+55 inch computer monitor,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+apple view,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+auro displays for laptop 3 screens,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+computer monitor hp g5 e45,loose-match,1,1,1.0000,1.05,1.05,0,0,0
+laptop extended screen 16 inch,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor curves touch screen,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor dualup,loose-match,1,1,1.0000,0.48,0.48,0,0,0
+the movingstyle lsm7f qhd portable smart,loose-match,1,1,1.0000,0.58,0.58,0,0,0
+touch monitor + mini-pc or windows tablet with browser,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+touchscreen external monitor for laptop,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+b0855zbpxd,substitutes,1,1,1.0000,0.94,0.94,0,0,0
+b08gy5351h,substitutes,1,1,1.0000,1,1,0,0,0
+b08pb63tk3,substitutes,1,1,1.0000,1,1,0,0,0
+b098nkq5j6,substitutes,1,1,1.0000,1,1,0,0,0
+b0bdbxv7t4,substitutes,1,1,1.0000,0.93,0.93,0,0,0
+b0dskd4x2v,substitutes,1,1,1.0000,1,1,0,0,0
+b0fm13f4xk,substitutes,1,1,1.0000,0.47,0.47,0,0,0
+b0fn2vj9gj,substitutes,1,1,1.0000,0.96,0.96,0,0,0
+b0fqjjbj2g,substitutes,1,1,1.0000,0.44,0.44,0,0,0
+b0fvwwhm76,substitutes,1,1,1.0000,0.75,0.75,0,0,0
+b0fz9y2ch4,substitutes,1,1,1.0000,0.89,0.89,0,0,0
+b0g2x2nmqc,substitutes,1,1,1.0000,0.97,0.97,0,0,0
+b0gv9485kz,substitutes,1,1,1.0000,0.77,0.77,0,0,0
+b0h39nqqjp,substitutes,1,1,1.0000,0.95,0.95,0,0,0
+b0h7mc351h,substitutes,1,1,1.0000,0.82,0.82,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,magnetic laptop screen extender,laptop screen extender,1.48,289,1,0.0035,1.48,1.48,0,0,0
+,triple laptop screen extender,laptop screen extender,1.48,158,3,0.0190,4.44,1.48,0,0,0
+,24 inch monitor,24 inch dual monitor,1.68,113,5,0.0442,8.42,1.68,0,0,0
+,computer monitor,vertical dual monitor,1.58,38,1,0.0263,1.09,1.09,0,0,0
+,dual monitors,vertical dual monitor,1.58,30,1,0.0333,1.1,1.1,0,0,0
+,portable monitor,second monitor for laptop,1.48,23,1,0.0435,1.48,1.48,0,0,0
+,2 monitors,stacked monitor,1.58,22,1,0.0455,1.58,1.58,0,0,0
+,dual monitor,vertical dual monitor,1.58,21,1,0.0476,1.18,1.18,0,0,0
+,double monitor,24 inch dual monitor,1.68,21,1,0.0476,1.68,1.68,0,0,0
+,portable monitor,dual monitor for laptop,1.48,15,1,0.0667,1.48,1.48,0,0,0
+,15.6 dual laptop screen extender,laptop screen extender,1.48,9,1,0.1111,1.32,1.32,0,0,0
+,quad laptop screen extender,laptop screen extender,1.48,8,1,0.1250,1.15,1.15,0,0,0
+,laptop triple screen extender,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,stand alone laptop screen,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,dual screen capability monitor,vertical dual monitor,1.58,3,1,0.3333,1.58,1.58,0,0,0
+,portable monitor for laptop 30 inch,dual monitor for laptop,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,laptop screen extender dual,laptop screen extender,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,stacked on top monitors,stacked monitor,1.58,1,1,1.0000,1.14,1.14,0,0,0
+,long monitor,second monitor for laptop,1.48,1,1,1.0000,1.43,1.43,0,0,0
+,27 by 23 inch screen,dual screen monitor,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,4k dual monitor,24 inch dual monitor,1.68,1,1,1.0000,1.68,1.68,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,laptop screen extender,laptop screen extender,2.22,5715,22,0.0038,44,2,0,0,0
+关键词: 精准匹配,dual monitor for laptop,dual monitor for laptop,2.27,221,2,0.0090,4.54,2.27,0,0,0
+,stacked monitors,stacked monitor,2.67,31,1,0.0323,2.31,2.31,0,0,0
+dual monitors,close-match,93,3,0.0323,2.66,0.89,0,0,0
+tv on wheels,loose-match,83,1,0.0120,1.08,1.08,0,0,0
+portable tv,loose-match,54,1,0.0185,0.45,0.45,0,0,0
+portable tv,close-match,52,1,0.0192,1.1,1.1,0,0,0
+corsair xeneon edge,close-match,48,1,0.0208,1.1,1.1,0,0,0
+portable monitor 4k,loose-match,45,1,0.0222,0.46,0.46,0,0,0
+touchscreen keyboard,loose-match,43,1,0.0233,0.57,0.57,0,0,0
+stretched bar monitor,close-match,41,1,0.0244,0.73,0.73,0,0,0
+b0gy62y41k,substitutes,36,2,0.0556,0.93,0.47,0,0,0
+computer monitor,close-match,34,1,0.0294,0.82,0.82,0,0,0
+small monitor,loose-match,31,1,0.0323,1.08,1.08,0,0,0
+b0d4wr7v45,substitutes,31,2,0.0645,1.69,0.85,0,0,0
+b0btk1c533,substitutes,21,2,0.0952,1.66,0.83,0,0,0
+xbox rog ally x accessories,loose-match,20,2,0.1000,1.27,0.64,0,0,0
+vertical monitor,close-match,18,1,0.0556,1.1,1.1,0,0,0
+b0fgd37ym1,substitutes,18,1,0.0556,0.41,0.41,0,0,0
+b0crgjf7wl,substitutes,16,1,0.0625,0.92,0.92,0,0,0
+portable monitor,loose-match,15,1,0.0667,1.08,1.08,0,0,0
+touch monitor,close-match,14,1,0.0714,1.1,1.1,0,0,0
+b0cdqm55c9,substitutes,14,1,0.0714,1,1,0,0,0
+b0d6ckl4hv,substitutes,13,1,0.0769,0.88,0.88,0,0,0
+b0fdvnj8st,substitutes,13,1,0.0769,0.56,0.56,0,0,0
+b0h5klxykv,substitutes,13,1,0.0769,1,1,0,0,0
+b0dkjmd9hx,substitutes,12,1,0.0833,1,1,0,0,0
+b0h3z2pznf,substitutes,12,1,0.0833,0.89,0.89,0,0,0
+dual portable monitor,close-match,11,2,0.1818,2.2,1.1,0,0,0
+b0hg9rwh5c,substitutes,11,1,0.0909,0.28,0.28,0,0,0
+touch bar,loose-match,10,1,0.1000,1.08,1.08,0,0,0
+b07txm7k4t,substitutes,10,1,0.1000,0.81,0.81,0,0,0
+y70 touch infinite,close-match,9,1,0.1111,1.07,1.07,0,0,0
+b0h5mgrzly,substitutes,9,1,0.1111,1,1,0,0,0
+2 monitors,close-match,8,1,0.1250,1.1,1.1,0,0,0
+megapad,close-match,8,1,0.1250,0.69,0.69,0,0,0
+b0cv27x9k7,substitutes,8,1,0.1250,1,1,0,0,0
+monitor 6k,loose-match,7,1,0.1429,1.08,1.08,0,0,0
+under monitor monitor,loose-match,7,1,0.1429,0.62,0.62,0,0,0
+b0gd6shygz,substitutes,7,2,0.2857,1.91,0.96,0,0,0
+rog ally,close-match,6,1,0.1667,1,1,0,0,0
+portable monitor 2k,loose-match,6,1,0.1667,0.43,0.43,0,0,0
+b0btkjfrdv,substitutes,6,1,0.1667,0.83,0.83,0,0,0
+gaming laptop accessories,close-match,5,1,0.2000,1.1,1.1,0,0,0
+computer monitor for home office,loose-match,5,1,0.2000,0.85,0.85,0,0,0
+samsung model c49rg90ssn,loose-match,5,1,0.2000,0.88,0.88,0,0,0
+b0h874m2px,substitutes,5,1,0.2000,1,1,0,0,0
+b0f6724x5n,substitutes,4,1,0.2500,0.78,0.78,0,0,0
+b0fjfzgmcv,substitutes,4,1,0.2500,0.91,0.91,0,0,0
+b0gtymg4bn,substitutes,4,1,0.2500,1,1,0,0,0
+b0h9qrx7d1,substitutes,4,1,0.2500,1,1,0,0,0
+dual computer with customer view,loose-match,3,1,0.3333,0.5,0.5,0,0,0
+prechen,loose-match,3,1,0.3333,0.45,0.45,0,0,0
+b0c9d8wmn4,substitutes,3,1,0.3333,1,1,0,0,0
+b0dbb63xgc,substitutes,3,1,0.3333,0.96,0.96,0,0,0
+b0dg588b1s,substitutes,3,1,0.3333,1,1,0,0,0
+b0glp1k3jc,substitutes,3,1,0.3333,1,1,0,0,0
+b0gvpbvrpp,substitutes,3,1,0.3333,0.93,0.93,0,0,0
+b0gx9k673b,substitutes,3,1,0.3333,0.97,0.97,0,0,0
+b0h5psd9w6,substitutes,3,1,0.3333,0.45,0.45,0,0,0
+b0h85tqf5m,substitutes,3,1,0.3333,1,1,0,0,0
+stage lyric prompter monitor,close-match,2,1,0.5000,1.08,1.08,0,0,0
+24 inch portable monitor,loose-match,2,1,0.5000,0.74,0.74,0,0,0
+big screen computer monitor vertical,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+flip double portable monitor 4k 23,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+gamer touch screen for pc,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+long quad oled monitor,loose-match,2,1,0.5000,1.05,1.05,0,0,0
+performance monitor for pc usb,loose-match,2,1,0.5000,0.85,0.85,0,0,0
+sotsu portable monitor,loose-match,2,1,0.5000,1.08,1.08,0,0,0
+uperfect delta 18.5-inch dual,loose-match,2,1,0.5000,0.98,0.98,0,0,0
+b09n6h2lqm,substitutes,2,1,0.5000,0.91,0.91,0,0,0
+b0ddp95j7t,substitutes,2,1,0.5000,1,1,0,0,0
+b0dqf8lrgz,substitutes,2,1,0.5000,1,1,0,0,0
+b0dr9n6m93,substitutes,2,1,0.5000,0.98,0.98,0,0,0
+b0f5w9k7kw,substitutes,2,1,0.5000,1,1,0,0,0
+b0fgdcs3ch,substitutes,2,1,0.5000,0.97,0.97,0,0,0
+b0fm76lqlm,substitutes,2,1,0.5000,0.63,0.63,0,0,0
+b0fpfkvw49,substitutes,2,1,0.5000,1,1,0,0,0
+b0gl6zjlsl,substitutes,2,1,0.5000,1,1,0,0,0
+b0gt4tshpc,substitutes,2,1,0.5000,0.85,0.85,0,0,0
+b0hb92txz4,close-match,1,1,1.0000,0.02,0.02,0,0,0
+screen extender,close-match,1,1,1.0000,0.08,0.08,0,0,0
+wireless dual touchscreen monitor,close-match,1,1,1.0000,1.05,1.05,0,0,0
+24 screen 3:2,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+3x 20.5triple monitor workstation,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+55 inch computer monitor,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+apple view,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+auro displays for laptop 3 screens,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+computer monitor hp g5 e45,loose-match,1,1,1.0000,1.05,1.05,0,0,0
+laptop extended screen 16 inch,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor curves touch screen,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+monitor dualup,loose-match,1,1,1.0000,0.48,0.48,0,0,0
+the movingstyle lsm7f qhd portable smart,loose-match,1,1,1.0000,0.58,0.58,0,0,0
+touch monitor + mini-pc or windows tablet with browser,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+touchscreen external monitor for laptop,loose-match,1,1,1.0000,1.08,1.08,0,0,0
+b0855zbpxd,substitutes,1,1,1.0000,0.94,0.94,0,0,0
+b08gy5351h,substitutes,1,1,1.0000,1,1,0,0,0
+b08pb63tk3,substitutes,1,1,1.0000,1,1,0,0,0
+b098nkq5j6,substitutes,1,1,1.0000,1,1,0,0,0
+b0bdbxv7t4,substitutes,1,1,1.0000,0.93,0.93,0,0,0
+b0dskd4x2v,substitutes,1,1,1.0000,1,1,0,0,0
+b0fm13f4xk,substitutes,1,1,1.0000,0.47,0.47,0,0,0
+b0fn2vj9gj,substitutes,1,1,1.0000,0.96,0.96,0,0,0
+b0fqjjbj2g,substitutes,1,1,1.0000,0.44,0.44,0,0,0
+b0fvwwhm76,substitutes,1,1,1.0000,0.75,0.75,0,0,0
+b0fz9y2ch4,substitutes,1,1,1.0000,0.89,0.89,0,0,0
+b0g2x2nmqc,substitutes,1,1,1.0000,0.97,0.97,0,0,0
+b0gv9485kz,substitutes,1,1,1.0000,0.77,0.77,0,0,0
+b0h39nqqjp,substitutes,1,1,1.0000,0.95,0.95,0,0,0
+b0h7mc351h,substitutes,1,1,1.0000,0.82,0.82,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,magnetic laptop screen extender,laptop screen extender,1.48,289,1,0.0035,1.48,1.48,0,0,0
+,triple laptop screen extender,laptop screen extender,1.48,158,3,0.0190,4.44,1.48,0,0,0
+,24 inch monitor,24 inch dual monitor,1.68,113,5,0.0442,8.42,1.68,0,0,0
+,computer monitor,vertical dual monitor,1.58,38,1,0.0263,1.09,1.09,0,0,0
+,dual monitors,vertical dual monitor,1.58,30,1,0.0333,1.1,1.1,0,0,0
+,portable monitor,second monitor for laptop,1.48,23,1,0.0435,1.48,1.48,0,0,0
+,2 monitors,stacked monitor,1.58,22,1,0.0455,1.58,1.58,0,0,0
+,dual monitor,vertical dual monitor,1.58,21,1,0.0476,1.18,1.18,0,0,0
+,double monitor,24 inch dual monitor,1.68,21,1,0.0476,1.68,1.68,0,0,0
+,portable monitor,dual monitor for laptop,1.48,15,1,0.0667,1.48,1.48,0,0,0
+,15.6 dual laptop screen extender,laptop screen extender,1.48,9,1,0.1111,1.32,1.32,0,0,0
+,quad laptop screen extender,laptop screen extender,1.48,8,1,0.1250,1.15,1.15,0,0,0
+,laptop triple screen extender,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,stand alone laptop screen,laptop screen extender,1.48,4,1,0.2500,1.48,1.48,0,0,0
+,dual screen capability monitor,vertical dual monitor,1.58,3,1,0.3333,1.58,1.58,0,0,0
+,portable monitor for laptop 30 inch,dual monitor for laptop,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,laptop screen extender dual,laptop screen extender,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,stacked on top monitors,stacked monitor,1.58,1,1,1.0000,1.14,1.14,0,0,0
+,long monitor,second monitor for laptop,1.48,1,1,1.0000,1.43,1.43,0,0,0
+,27 by 23 inch screen,dual screen monitor,1.48,1,1,1.0000,1.48,1.48,0,0,0
+,4k dual monitor,24 inch dual monitor,1.68,1,1,1.0000,1.68,1.68,0,0,0
+已添加为,顾客搜索词,关键词,目标竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS
+,laptop screen extender,laptop screen extender,2.22,5715,22,0.0038,44,2,0,0,0
+关键词: 精准匹配,dual monitor for laptop,dual monitor for laptop,2.27,221,2,0.0090,4.54,2.27,0,0,0
+,stacked monitors,stacked monitor,2.67,31,1,0.0323,2.31,2.31,0,0,0
+状态,关键词,状态,竞价 (USD),展示量,点击量,点击率,总成本 (USD),CPC (USD),购买量,销售额 (USD),ACOS,ROAS
+已启用,dual monitor,超出预算,1.72,6174,45,0.0073,66.4,1.48,0,0,0,0
+已启用,dual monitor for laptop,超出预算,1.86,3135,15,0.0048,24.97,1.66,0,0,0,0
+已启用,dual screen monitor,超出预算,1.88,814,13,0.0160,22.24,1.71,0,0,0,0
+已启用,extended monitor for laptop,超出预算,1.84,122,1,0.0082,1.42,1.42,0,0,0,0
+已启用,stackable monitor,超出预算,1.88,24,0,0,0,0,0,0,0,0
+已启用,stacked monitor,超出预算,1.68,468,11,0.0235,14.91,1.36,0,0,0,0
+已启用,two screen monitor,超出预算,1.84,20,0,0,0,0,0,0,0,0
+已启用,vertical dual monitor,超出预算,2.24,46,0,0,0,0,0,0,0,0
